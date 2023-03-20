@@ -1,0 +1,14 @@
+{
+	"user": "TempoServers",
+	"repo": "TempoForSpeed",
+	"tag": "0.0.1",
+	"entry": "gamemodes\\test.pwn",
+	"output": "gamemodes/gamemodes\\test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true,
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
